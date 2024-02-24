@@ -33,6 +33,10 @@ Route::get('/table3', function() {
     return view('pages.table3');
 });
 
+Route::get('/simple', function() {
+    return view('pages.simple_table');
+});
+
 // Route::get('/table4', function() {
 //     return view('pages.table4');
 // });
