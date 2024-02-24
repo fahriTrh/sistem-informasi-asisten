@@ -57,13 +57,13 @@
 
 
                 <td class="bg-blue text-center text-white"><small>Nilai Maksimal</small></td>
-                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
-                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
-                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"> <small>50</small></td>
+                <td class="text-center"> <small>50</small></td>
+                <td class="text-center"> <small>50</small></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
-                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
-                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
-                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"> <small>50</small></td>
+                <td class="text-center"> <small>50</small></td>
+                <td class="text-center"> <small>50</small></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
             </tr>
