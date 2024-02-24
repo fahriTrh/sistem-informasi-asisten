@@ -17,6 +17,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/praktikum', function() {
+    return view('pages.praktikum');
+});
+
 Route::get('/table1', function() {
     return view('pages.table1');
 });
@@ -29,6 +33,7 @@ Route::get('/table3', function() {
     return view('pages.table3');
 });
 
-Route::get('/praktikum', function() {
-    return view('pages.praktikum');
-});
+// Route::get('/table4', function() {
+//     return view('pages.table4');
+// });
+

@@ -57,13 +57,13 @@
 
 
                 <td class="bg-blue text-center text-white"><small>Nilai Maksimal</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
             </tr>
@@ -90,27 +90,13 @@
                 <td class="text-center"><small>1800018023</small></td>
                 <td class="text-center"><small>Ronald Richards</small></td>
                 <td class="text-center"><small>C</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center bg-light-blue"><small>50</small></td>
-                <td class="text-center bg-light-blue"><small>50</small></td>
-            </tr>
-            <tr>
-                <td class="text-center"><small>1800018023</small></td>
-                <td class="text-center"><small>Ronald Richards</small></td>
-                <td class="text-center"><small>C</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center bg-light-blue"><small>50</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
             </tr>
@@ -118,27 +104,13 @@
                 <td class="text-center"><small>1800018023</small></td>
                 <td class="text-center"><small>Ronald Richards</small></td>
                 <td class="text-center"><small>C</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center bg-light-blue"><small>50</small></td>
-                <td class="text-center bg-light-blue"><small>50</small></td>
-            </tr>
-            <tr>
-                <td class="text-center"><small>1800018023</small></td>
-                <td class="text-center"><small>Ronald Richards</small></td>
-                <td class="text-center"><small>C</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center bg-light-blue"><small>50</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
             </tr>
@@ -146,27 +118,13 @@
                 <td class="text-center"><small>1800018023</small></td>
                 <td class="text-center"><small>Ronald Richards</small></td>
                 <td class="text-center"><small>C</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center bg-light-blue"><small>50</small></td>
-                <td class="text-center bg-light-blue"><small>50</small></td>
-            </tr>
-            <tr>
-                <td class="text-center"><small>1800018023</small></td>
-                <td class="text-center"><small>Ronald Richards</small></td>
-                <td class="text-center"><small>C</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center bg-light-blue"><small>50</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
             </tr>
@@ -174,27 +132,13 @@
                 <td class="text-center"><small>1800018023</small></td>
                 <td class="text-center"><small>Ronald Richards</small></td>
                 <td class="text-center"><small>C</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center bg-light-blue"><small>50</small></td>
-                <td class="text-center bg-light-blue"><small>50</small></td>
-            </tr>
-            <tr>
-                <td class="text-center"><small>1800018023</small></td>
-                <td class="text-center"><small>Ronald Richards</small></td>
-                <td class="text-center"><small>C</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center bg-light-blue"><small>50</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
             </tr>
@@ -202,13 +146,13 @@
                 <td class="text-center"><small>1800018023</small></td>
                 <td class="text-center"><small>Ronald Richards</small></td>
                 <td class="text-center"><small>C</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
             </tr>
@@ -216,13 +160,69 @@
                 <td class="text-center"><small>1800018023</small></td>
                 <td class="text-center"><small>Ronald Richards</small></td>
                 <td class="text-center"><small>C</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
-                <td class="text-center"><span class="inline-block border rounded py-1 px-2">Nilai</span></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center bg-light-blue"><small>50</small></td>
+                <td class="text-center bg-light-blue"><small>50</small></td>
+            </tr>
+            <tr>
+                <td class="text-center"><small>1800018023</small></td>
+                <td class="text-center"><small>Ronald Richards</small></td>
+                <td class="text-center"><small>C</small></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center bg-light-blue"><small>50</small></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center bg-light-blue"><small>50</small></td>
+                <td class="text-center bg-light-blue"><small>50</small></td>
+            </tr>
+            <tr>
+                <td class="text-center"><small>1800018023</small></td>
+                <td class="text-center"><small>Ronald Richards</small></td>
+                <td class="text-center"><small>C</small></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center bg-light-blue"><small>50</small></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center bg-light-blue"><small>50</small></td>
+                <td class="text-center bg-light-blue"><small>50</small></td>
+            </tr>
+            <tr>
+                <td class="text-center"><small>1800018023</small></td>
+                <td class="text-center"><small>Ronald Richards</small></td>
+                <td class="text-center"><small>C</small></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center bg-light-blue"><small>50</small></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center bg-light-blue"><small>50</small></td>
+                <td class="text-center bg-light-blue"><small>50</small></td>
+            </tr>
+            <tr>
+                <td class="text-center"><small>1800018023</small></td>
+                <td class="text-center"><small>Ronald Richards</small></td>
+                <td class="text-center"><small>C</small></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center bg-light-blue"><small>50</small></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
+                <td class="text-center"><input type="text" placeholder="Nilai" class="inline-block border rounded text-center px-1" style="width: 50px;"></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
                 <td class="text-center bg-light-blue"><small>50</small></td>
             </tr>
